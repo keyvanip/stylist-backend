@@ -1,0 +1,505 @@
+{
+    "shorts": [
+        {
+            "filename": "01_shorts.jpg",
+            "category": "shorts",
+            "color": "black",
+            "style": ["sporty"],
+            "gender": "male",
+            "sleeve": ""
+          },
+          {
+            "filename": "02_shorts.jpg",
+            "category": "shorts",
+            "color": "white",
+            "style": ["sporty"],
+            "gender": "male",
+            "sleeve": ""
+          },
+          {
+            "filename": "03_shorts.jpg",
+            "category": "shorts",
+            "color": "teal",
+            "style": ["sporty"],
+            "gender": "male",
+            "sleeve": ""
+          }
+        
+    ],
+
+    "pants": [
+        {
+            "filename": "01_pants.jpg",
+            "category": "pants",
+            "color": "charcoal",
+            "style": ["casual"],
+            "gender": "male",
+            "sleeve": ""
+        },
+        {
+            "filename": "02_pants.jpg",
+            "category": "pants",
+            "color": "khaki",
+            "style": ["casual"],
+            "gender": "male",
+            "sleeve": ""
+        },
+        {
+            "filename": "03_pants.jpg",
+            "category": "pants",
+            "color": "orange",
+            "style": ["casual"],
+            "gender": "male",
+            "sleeve": ""
+        },
+        {
+            "filename": "04_pants.jpg",
+            "category": "pants",
+            "color": "olive",
+            "style": ["formal", "casual"],
+            "gender": "male",
+            "sleeve": ""
+        },
+        {
+            "filename": "05_pants.jpg",
+            "category": "pants",
+            "color": "black",
+            "style": ["casual"],
+            "gender": "male",
+            "sleeve": ""
+        },
+        {
+            "filename": "06_pants.jpg",
+            "category": "pants",
+            "color": "navy",
+            "style": ["casual"],
+            "gender": "male",
+            "sleeve": ""
+        },
+        {
+            "filename": "07_pants.jpg",
+            "category": "pants",
+            "color": "navy",
+            "style": ["formal"],
+            "gender": "male",
+            "sleeve": ""
+        },
+        {
+            "filename": "08_pants.jpg",
+            "category": "pants",
+            "color": "navy",
+            "style": ["formal"],
+            "gender": "male",
+            "sleeve": ""
+        },
+        {
+            "filename": "09_pants.jpg",
+            "category": "pants",
+            "color": "gray",
+            "style": ["formal"],
+            "gender": "male",
+            "sleeve": ""
+        },
+        {
+            "filename": "10_pants.jpg",
+            "category": "pants",
+            "color": "khaki",
+            "style": ["casual", "formal"],
+            "gender": "male",
+            "sleeve": ""
+          },
+          {
+            "filename": "11_pants.jpg",
+            "category": "pants",
+            "color": "white",
+            "style": ["casual"],
+            "gender": "male",
+            "sleeve": ""
+          },
+          {
+            "filename": "12_pants.jpg",
+            "category": "pants",
+            "color": "black",
+            "style": ["sporty"],
+            "gender": "male",
+            "sleeve": ""
+          },
+          {
+            "filename": "13_pants.jpg",
+            "category": "pants",
+            "color": "gray",
+            "style": ["casual", "sporty"],
+            "gender": "male",
+            "sleeve": ""
+          },
+          {
+            "filename": "14_pants.jpg",
+            "category": "pants",
+            "color": "navy",
+            "style": ["casual", "formal"],
+            "gender": "male",
+            "sleeve": ""
+          },
+          {
+            "filename": "15_pants.jpg",
+            "category": "pants",
+            "color": "charcoal",
+            "style": ["casual"],
+            "gender": "male",
+            "sleeve": ""
+          },
+          {
+            "filename": "16_pants.jpg",
+            "category": "pants",
+            "color": "charcoal",
+            "style": ["casual", "formal"],
+            "gender": "male",
+            "sleeve": ""
+          },
+          {
+            "filename": "17_pants.jpg",
+            "category": "pants",
+            "color": "black",
+            "style": ["sporty"],
+            "gender": "male",
+            "sleeve": ""
+          },
+          {
+            "filename": "18_pants.jpg",
+            "category": "pants",
+            "color": "black",
+            "style": ["sporty"],
+            "gender": "male",
+            "sleeve": ""
+          }
+        
+    ],
+
+    "shirts": [
+        {
+            "filename": "01_shirts.jpg",
+            "category": "shirt",
+            "color": "black",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "02_shirts.jpg",
+            "category": "shirt",
+            "color": "blue",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "03_shirts.jpg",
+            "category": "shirt",
+            "color": "navy",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "04_shirts.jpg",
+            "category": "shirt",
+            "color": "black",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "05_shirts.jpg",
+            "category": "shirt",
+            "color": "white",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "06_shirts.jpg",
+            "category": "shirt",
+            "color": "blue",
+            "style": ["formal", "casual"],
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "07_shirts.jpg",
+            "category": "shirt",
+            "color": "blue",
+            "style": ["formal", "casual"],
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "08_shirts.jpg",
+            "category": "shirt",
+            "color": "olive",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "09_shirts.jpg",
+            "category": "shirt",
+            "color": "light blue",
+            "style": ["formal", "casual"],
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "10_shirts.jpg",
+            "category": "shirt",
+            "color": "white",
+            "style": ["formal", "casual"],
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "11_shirts.jpg",
+            "category": "shirt",
+            "color": "black",
+            "style": "formal",
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "12_shirts.jpg",
+            "category": "shirt",
+            "color": "navy",
+            "style": "formal",
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "13_shirts.jpg",
+            "category": "shirt",
+            "color": "blue",
+            "style": "formal",
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "14_shirts.jpg",
+            "category": "shirt",
+            "color": "gray",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "15_shirts.jpg",
+            "category": "shirt",
+            "color": "brown",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "16_shirts.jpg",
+            "category": "shirt",
+            "color": "khaki",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "17_shirts.jpg",
+            "category": "shirt",
+            "color": "navy",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "18_shirts.jpg",
+            "category": "shirt",
+            "color": "gray",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "19_shirts.jpg",
+            "category": "shirt",
+            "color": "navy",
+            "style": "formal",
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "20_shirts.jpg",
+            "category": "shirt",
+            "color": "black",
+            "style": "sporty",
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "21_shirts.jpg",
+            "category": "shirt",
+            "color": "beige",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "short"
+          },
+          {
+            "filename": "22_shirts.jpg",
+            "category": "shirt",
+            "color": "black",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "short"
+          },
+          {
+            "filename": "23_shirts.jpg",
+            "category": "shirt",
+            "color": "navy",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "short"
+          },
+          {
+            "filename": "24_shirts.jpg",
+            "category": "shirt",
+            "color": "red",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "short"
+          },
+          {
+            "filename": "25_shirts.jpg",
+            "category": "shirt",
+            "color": "navy",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "short"
+          },
+          {
+            "filename": "26_shirts.jpg",
+            "category": "shirt",
+            "color": "beige",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "short"
+          },
+          {
+            "filename": "27_shirts.jpg",
+            "category": "shirt",
+            "color": "gray",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "short"
+          },
+          {
+            "filename": "28_shirts.jpg",
+            "category": "shirt",
+            "color": "peach",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "short"
+          },
+          {
+            "filename": "29_shirts.jpg",
+            "category": "shirt",
+            "color": "blue",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "short"
+          },
+          {
+            "filename": "30_shirts.jpg",
+            "category": "shirt",
+            "color": "black",
+            "style": "sporty",
+            "gender": "male",
+            "sleeve": "long"
+          },
+          {
+            "filename": "31_shirts.jpg",
+            "category": "shirt",
+            "color": "blue",
+            "style": "formal",
+            "gender": "male",
+            "sleeve": "long"
+          }
+        
+    ],
+    "t-shirts": [
+        {
+            "filename": "01_t-shirts.jpg",
+            "category": "t-shirt",
+            "color": "navy",
+            "style": "sporty",
+            "gender": "male",
+            "sleeve": "short"
+          },
+          {
+            "filename": "02_t-shirts.jpg",
+            "category": "t-shirt",
+            "color": "white",
+            "style": "sporty",
+            "gender": "male",
+            "sleeve": "short"
+          },
+          {
+            "filename": "03_t-shirts.jpg",
+            "category": "t-shirt",
+            "color": "white",
+            "style": "sporty",
+            "gender": "male",
+            "sleeve": "short"
+          },
+          {
+            "filename": "04_t-shirts.jpg",
+            "category": "t-shirt",
+            "color": "white",
+            "style": "sporty",
+            "gender": "male",
+            "sleeve": "short"
+          },
+          {
+            "filename": "05_t-shirts.jpg",
+            "category": "t-shirt",
+            "color": "black",
+            "style": "sporty",
+            "gender": "male",
+            "sleeve": "short"
+          },
+          {
+            "filename": "06_t-shirts.jpg",
+            "category": "t-shirt",
+            "color": "black",
+            "style": ["sporty", "casual"],
+            "gender": "male",
+            "sleeve": "short"
+          },
+          {
+            "filename": "07_t-shirts.jpg",
+            "category": "t-shirt",
+            "color": "brown",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "short"
+          },
+          {
+            "filename": "08_t-shirts.jpg",
+            "category": "t-shirt",
+            "color": "white",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "short"
+          },
+          {
+            "filename": "09_t-shirts.jpg",
+            "category": "t-shirt",
+            "color": "mustard",
+            "style": "casual",
+            "gender": "male",
+            "sleeve": "short"
+          }
+        
+    ]
+
+}

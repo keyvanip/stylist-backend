@@ -1,0 +1,229 @@
+{
+    "shorts": [
+        {
+            "filename": "01_shorts.jpg",
+            "category": "shorts",
+            "color": "navy",
+            "style": ["casual"],
+            "gender": "female",
+            "sleeve": ""
+        },
+        {
+            "filename": "02_shorts.jpg",
+            "category": "shorts",
+            "color": "beige",
+            "style": ["casual"],
+            "gender": "female",
+            "sleeve": ""
+        },
+        {
+            "filename": "03_shorts.jpg",
+            "category": "shorts",
+            "color": "blue",
+            "style": ["casual"],
+            "gender": "female",
+            "sleeve": ""
+        },
+        {
+            "filename": "04_shorts.jpg",
+            "category": "shorts",
+            "color": "olive",
+            "style": ["casual"],
+            "gender": "female",
+            "sleeve": ""
+        },
+        {
+            "filename": "05_shorts.jpg",
+            "category": "shorts",
+            "color": "denim",
+            "style": ["casual"],
+            "gender": "female",
+            "sleeve": ""
+        },
+        {
+            "filename": "06_shorts.jpg",
+            "category": "shorts",
+            "color": "beige",
+            "style": ["formal", "casual"],
+            "gender": "female",
+            "sleeve": ""
+        }
+    ],
+
+    "pants": [
+        {
+            "filename": "01_pants.jpg",
+            "category": "pants",
+            "color": "denim",
+            "style": ["casual"],
+            "gender": "female",
+            "sleeve": ""
+        },
+        {
+            "filename": "02_pants.jpg",
+            "category": "pants",
+            "color": "gray",
+            "style": ["casual"],
+            "gender": "female",
+            "sleeve": ""
+        },
+        {
+            "filename": "03_pants.jpg",
+            "category": "pants",
+            "color": "white",
+            "style": ["formal"],
+            "gender": "female",
+            "sleeve": ""
+        },
+        {
+            "filename": "04_pants.jpg",
+            "category": "pants",
+            "color": "olive",
+            "style": ["formal"],
+            "gender": "female",
+            "sleeve": ""
+        },
+        {
+            "filename": "05_pants.jpg",
+            "category": "pants",
+            "color": "black",
+            "style": ["formal"],
+            "gender": "female",
+            "sleeve": ""
+        },
+        {
+            "filename": "06_pants.jpg",
+            "category": "pants",
+            "color": "gray",
+            "style": ["formal", "casual"],
+            "gender": "female",
+            "sleeve": ""
+        }
+    ],
+
+    "shirts": [
+        {
+            "filename": "01_shirts.jpg",
+            "category": "shirt",
+            "color": "blue",
+            "style": ["formal"],
+            "gender": "female",
+            "sleeve": "long"
+        },
+        {
+            "filename": "02_shirts.jpg",
+            "category": "shirt",
+            "color": "pink",
+            "style": ["formal","casual"],
+            "gender": "female",
+            "sleeve": "long"
+        },
+        {
+            "filename": "03_shirts.jpg",
+            "category": "shirt",
+            "color": "white",
+            "style": ["casual"],
+            "gender": "female",
+            "sleeve": "long"
+        },
+        {
+            "filename": "04_shirts.jpg",
+            "category": "shirt",
+            "color": "navy",
+            "style": ["formal"],
+            "gender": "female",
+            "sleeve": "long"
+        },
+        {
+            "filename": "05_shirts.jpg",
+            "category": "shirt",
+            "color": "white",
+            "style": ["formal", "casual"],
+            "gender": "female",
+            "sleeve": "long"
+        },
+        {
+            "filename": "06_shirts.jpg",
+            "category": "shirt",
+            "color": "white",
+            "style": ["casual"],
+            "gender": "female",
+            "sleeve": "long"
+        },
+        {
+            "filename": "07_shirts.jpg",
+            "category": "shirt",
+            "color": "blue",
+            "style": ["casual"],
+            "gender": "female",
+            "sleeve": "long"
+        },
+        {
+            "filename": "08_shirts.jpg",
+            "category": "shirt",
+            "color": "green",
+            "style": ["casual"],
+            "gender": "female",
+            "sleeve": "long"
+        }
+    ],
+
+    "t-shirts": [
+        {
+            "filename": "01_t-shirts.jpg",
+            "category": "t-shirt",
+            "color": "green",
+            "style": ["casual"],
+            "gender": "female",
+            "sleeve": "short"
+        },
+        {
+            "filename": "02_t-shirts.jpg",
+            "category": "t-shirt",
+            "color": "pink",
+            "style": ["casual", "sporty"],
+            "gender": "female",
+            "sleeve": "short"
+        },
+        {
+            "filename": "03_t-shirts.jpg",
+            "category": "t-shirt",
+            "color": "gray",
+            "style": ["casual"],
+            "gender": "female",
+            "sleeve": "short"
+        },
+        {
+            "filename": "04_t-shirts.jpg",
+            "category": "t-shirt",
+            "color": "blue",
+            "style": ["casual"],
+            "gender": "female",
+            "sleeve": "short"
+        },
+        {
+            "filename": "05_t-shirts.jpg",
+            "category": "t-shirt",
+            "color": "red",
+            "style": ["casual"],
+            "gender": "female",
+            "sleeve": "short"
+        },
+        {
+            "filename": "06_t-shirts.jpg",
+            "category": "t-shirt",
+            "color": "red",
+            "style": ["casual"],
+            "gender": "female",
+            "sleeve": "short"
+        },
+        {
+            "filename": "07_t-shirts.jpg",
+            "category": "t-shirt",
+            "color": "olive",
+            "style": ["casual"],
+            "gender": "female",
+            "sleeve": "short"
+        }
+    ]
+} 
