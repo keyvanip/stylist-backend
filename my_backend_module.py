@@ -127,7 +127,7 @@ def filter_wardrobe(wardrobe_dict, temperature, occasion, color_preference=None,
 
             # 🔥 Correct strict filtering
             if occasion in item_styles:
-                if temperature < 15:
+                if temperature < 10:
                     if item["category"] == "pants" or item.get("sleeve", "") == "long":
                         suitable.append(item)
                 else:
