@@ -125,30 +125,32 @@ def filter_wardrobe(wardrobe_dict, temperature, occasion, color_preference=None,
             if isinstance(item_styles, str):
                 item_styles = [item_styles]
 
-            if occasion in item_styles or "casual" in item_styles:
+            # 🔥 Correct strict filtering
+            if occasion in item_styles:
                 if temperature < 15:
                     if item["category"] == "pants" or item.get("sleeve", "") == "long":
-                        suitable.append(item)
-                    elif item["category"] in ["shirt", "t-shirt"]:
                         suitable.append(item)
                 else:
                     suitable.append(item)
 
+    # Safety net if too few items
     if len(suitable) < 2:
         for items in wardrobe_dict.values():
             for item in items:
                 styles = item.get("style", [])
                 if isinstance(styles, str):
                     styles = [styles]
-                if occasion in styles or "casual" in styles:
+                if occasion in styles or (occasion != "formal" and "casual" in styles):
                     suitable.append(item)
 
+    # Apply color preference (if any)
     if color_preference:
         if color_preference in ["dark", "bright"]:
             suitable = [item for item in suitable if color_preference in item.get("color", "").lower()] or suitable
         else:
             suitable = [item for item in suitable if color_preference.lower() in item.get("color", "").lower()] or suitable
 
+    # Apply category preferences (if any)
     if preferred_tops:
         suitable = [item for item in suitable if item["category"] not in excluded_tops or item["category"] in preferred_tops]
     if preferred_bottoms:
